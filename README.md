@@ -28,3 +28,7 @@ Steps to be followed to make a Spring Project:
        http://www.springframework.org/schema/context/spring-context.xsd">
        
 </beans>
+
+Running on Port 8080 -> locolhost:8080/welcome
+![WhatsApp Image 2023-10-31 at 22 23 58_9ea7a91f](https://github.com/Shimork04/Spring-Framework/assets/111634234/60bb7af3-aedd-47b3-b63f-dcb151a318f4)
+
