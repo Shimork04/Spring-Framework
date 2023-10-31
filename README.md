@@ -16,11 +16,12 @@ This repository shows how to configure Spring Framework and make a project using
 5. Setting injection
 6. Main Class : which can pull the object and use
 
-                     **OR**
+**OR**
 
-visit: [www](https://start.spring.io/)
+visit: Spring Init(https://start.spring.io/)
 ![WhatsApp Image 2023-10-31 at 22 25 16_4a15c0bc](https://github.com/Shimork04/Spring-Framework/assets/111634234/6e613a38-02ae-4766-ae04-5205068030d8)
 - you can also add dependencies according to your project requirements. eg: Spring Web, Mysql etc
+
 
 **'config.xml' file configuration:**
 <?xml version="1.0" encoding="UTF-8"?>
@@ -38,6 +39,7 @@ visit: [www](https://start.spring.io/)
 
 Running on Port 8080 -> locolhost:8080/welcome
 ![WhatsApp Image 2023-10-31 at 22 23 58_9ea7a91f](https://github.com/Shimork04/Spring-Framework/assets/111634234/60bb7af3-aedd-47b3-b63f-dcb151a318f4)
+
 
 Snapshot of spring file running in terminal, apache tomact server is installed by default.
 ![WhatsApp Image 2023-10-31 at 22 24 33_7ccbe56d](https://github.com/Shimork04/Spring-Framework/assets/111634234/10407b60-97d1-4f71-8e2c-7ab9b3a28a65)
